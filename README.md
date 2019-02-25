@@ -14,6 +14,6 @@ An algorithm plots an unknown point, polls its local environment for labels, and
 ### Visualization
 I use python visualization libraries to showcase trends and information using real data.
 
-[Here](https://github.com/nwoodr94/python-projects/blob/master/matplotlib-visualization.ipynb) I visualize business trends using Matplotlib
-[Here](https://github.com/nwoodr94/python-projects/blob/master/seaborn-visualization.ipynb) I use Seaborn to visualize World Cup statistics
-[Here](https://github.com/nwoodr94/python-projects/blob/master/real-data-visualization.ipynb) I visualize livestream statistics for Twitch
+1. [Here](https://github.com/nwoodr94/python-projects/blob/master/matplotlib-visualization.ipynb) I visualize business trends using Matplotlib
+2. [Here](https://github.com/nwoodr94/python-projects/blob/master/seaborn-visualization.ipynb) I use Seaborn to visualize World Cup statistics
+3. [Here](https://github.com/nwoodr94/python-projects/blob/master/real-data-visualization.ipynb) I visualize livestream statistics for Twitch
