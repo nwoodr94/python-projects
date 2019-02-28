@@ -17,3 +17,6 @@ I use python visualization libraries to showcase trends and information using re
 1. [Here](https://github.com/nwoodr94/python-projects/blob/master/matplotlib-visualization.ipynb) I plot business trends using Matplotlib
 2. [Here](https://github.com/nwoodr94/python-projects/blob/master/seaborn-visualization.ipynb) I use Seaborn to visualize World Cup statistics
 3. [Here](https://github.com/nwoodr94/python-projects/blob/master/real-data-visualization.ipynb) I plot livestream statistics for Twitch
+
+### [Code Challenges](https://github.com/nwoodr94/python-projects/tree/master/code-challenges)
+This is a subdirectory where I will host solutions to common programming challenges.
