@@ -1,1 +1,1 @@
-This is a repository to host hobby projects I'm interested in
+These projects are works in progress
