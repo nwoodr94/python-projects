@@ -11,12 +11,11 @@ An algorithm uses calculus to minimize the error function and select the optimum
 ### [Classification](https://github.com/nwoodr94/python-projects/blob/master/classification-algorithm.ipynb)
 An algorithm plots an unknown point, polls its local environment for labels, and renders a classification based on its finding.
 
-### Visualization
+### [Visualization](https://github.com/nwoodr94/python-projects/tree/master/visualization)
 I use python visualization libraries to showcase trends and information using real data.
-
-1. [Here](https://github.com/nwoodr94/python-projects/blob/master/matplotlib-visualization.ipynb) I plot business trends using Matplotlib
-2. [Here](https://github.com/nwoodr94/python-projects/blob/master/seaborn-visualization.ipynb) I use Seaborn to visualize World Cup statistics
-3. [Here](https://github.com/nwoodr94/python-projects/blob/master/real-data-visualization.ipynb) I plot livestream statistics for Twitch
 
 ### [Code Challenges](https://github.com/nwoodr94/python-projects/tree/master/code-challenges)
 This is a subdirectory where I will host solutions to common programming challenges.
+
+### [Science Projects](https://github.com/nwoodr94/python-projects/tree/master/science)
+I host solutions and work involving scientific problems that interest me.
