@@ -1,3 +1,5 @@
+### Visualization
+
 Here are visualization projects which showcase my ability to use python data visualization libraries.
 
 1. [Business Analytics](https://github.com/nwoodr94/python-projects/blob/master/visualization/matplotlib-visualization.ipynb): I plot business trends using Matplotlib
