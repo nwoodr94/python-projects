@@ -11,7 +11,7 @@ An algorithm uses calculus to minimize the error function and select the optimum
 ### [Classification](https://github.com/nwoodr94/python-projects/blob/master/classification-algorithm.ipynb)
 An algorithm plots an unknown point, polls its local environment for labels, and renders a classification based on its finding.
 
-### [Projects](https://github.com/nwoodr94/python-projects/tree/master/projects)
+### [Projects](https://github.com/nwoodr94/python-projects/tree/master/projects#projects)
 I host solutions and work involving scientific problems that interest me.
 
 ### [Visualization](https://github.com/nwoodr94/python-projects/tree/master/visualization#visualization)
