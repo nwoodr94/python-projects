@@ -12,7 +12,7 @@ An algorithm uses calculus to minimize the error function and select the optimum
 An algorithm plots an unknown point, polls its local environment for labels, and renders a classification based on its finding.
 
 ### [Projects](https://github.com/nwoodr94/python-projects/tree/master/projects#projects)
-Here are projects ranging from an IBM Watson replica to a rocket kinematics simulator.
+Here are custom projects I developed, using a variety of libraries and techniques.
 
 ### [Visualization](https://github.com/nwoodr94/python-projects/tree/master/visualization#visualization)
 I use python visualization libraries to showcase trends and information using real data.
