@@ -1,6 +1,6 @@
 # python-projects
 
-This repository showcases programmatic knowledge of the fundamental machine learning techniques, regression and classification.
+This repository showcases my command of the Python language.
 
 ### Fundamental Algorithms
 These algorithms are the building blocks of machine learning optimization routines.
