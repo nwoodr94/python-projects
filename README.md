@@ -15,9 +15,9 @@ An algorithm plots an unknown point, polls its local environment for labels, and
 ### Projects
 Here are custom projects I developed, using a variety of libraries and techniques.
 
-1. [Baby Watson](https://github.com/nwoodr94/python-projects/blob/master/projects/Wikipedia-Search.ipynb) is a function which queries Wikipedia and returns a description of your input.
+1. [Baby Watson](https://github.com/nwoodr94/python-projects/blob/master/projects/Wikipedia-Search.ipynb) is a function which queries the Wikipedia API and returns the description of a page relevant to user input.
 2. [Flight Simulator](https://github.com/nwoodr94/python-projects/blob/master/projects/rocket-kinematics-simulator.ipynb) takes a rocket engine with a known specific impulse and burn time, and plots its kinematics.
-3. [Service Monopoly](https://github.com/nwoodr94/python-projects/blob/master/projects/Terrible-Customer-Service-Bot.ipynb) is a terrible customer service bot.
+3. [Service Monopoly](https://github.com/nwoodr94/python-projects/blob/master/projects/Terrible-Customer-Service-Bot.ipynb) is a typical customer service bot.
 
 ### Visualization
 I use python visualization libraries to showcase trends and information using real data.
